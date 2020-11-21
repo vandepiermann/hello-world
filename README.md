@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+I like challenges
+
+Finding solutions and being able to help people motivates me
